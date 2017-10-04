@@ -1,0 +1,14 @@
+{
+  "name": "google-cloud-functions-form-mailer",
+  "version": "0.0.1",
+  "description": "Process forms and send an email using Google Cloud Functions and Mailgun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach Russell",
+  "license": "ISC",
+  "dependencies": {
+    "mailgun-js": "^0.13.1"
+  }
+}

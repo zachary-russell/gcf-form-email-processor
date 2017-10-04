@@ -8,8 +8,11 @@ This can be configured using 2 easy steps:
 2. Send a POST request to your Google Cloud Function address with the following query strings:
 
 `fname` = First Name
+
 `lname` = Last Name
+
 `email` = Email Address
+
 `message` = Contact Message
 
 An example request:
